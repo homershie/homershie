@@ -24,7 +24,7 @@
 
 ## Projects
 
-### [Hando](https://github.com/homershie/Hando) — Image Optimizer
+### [Hando](https://github.com/homer-create/Hando) — Image Optimizer
 Open-source desktop app for batch image compression with WebP / AVIF export.  
 Built with Rust · Available for macOS & Windows  
 `Rust` · `Desktop` · `Open Source`
