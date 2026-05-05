@@ -33,6 +33,10 @@ Built with Rust · Available for macOS & Windows
 Personal anime tracking app with browser extension and Siri Shortcut support.  
 `Next.js` · `Supabase` · `Zustand` · `TanStack Query` · `Expo`
 
+### [MemeDam](https://www.memedam.com/) — 迷因典
+Full-stack platform for archiving and exploring Chinese internet memes.
+`Nuxt 3` · `Drizzle ORM` · `Supabase` · `Render`
+
 ### [FocusTick](https://apps.garmin.com/zh-TW/apps/7dfc609b-0adc-4c1a-8a0e-113011335079) — Garmin Watch App
 A Pomodoro timer for Garmin smartwatches, published on Connect IQ Store.  
 `Connect IQ` · `Monkey C`
